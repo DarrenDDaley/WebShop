@@ -1,0 +1,1 @@
+<?xml version="1.0"?><PlaceOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/Messages"><Id>259aeeb3-96c8-43f1-bedb-2ee4899c2845</Id><Items><NServiceBus.KeyValuePairOfStringAndInt32><Key>Macbook</Key><Value>1</Value></NServiceBus.KeyValuePairOfStringAndInt32></Items></PlaceOrder>
