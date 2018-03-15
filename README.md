@@ -8,7 +8,7 @@ GET - http://localhost:49757/api/items | This will get the current stock of item
 
 API Endpoint Cart 
 
-GET - http://localhost:50173/api/cart/{guid} | This will get current items in your cart 
+GET - http://localhost:50173/api/cart/{cartId} | This will get current items in your cart 
 
 POST - http://localhost:50173/api/cart | This will allow you to intially create your cart and provide an id
 
