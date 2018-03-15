@@ -18,10 +18,10 @@ PUT - http://localhost:50173/api/cart/remove/{cartId} | This will allow you to r
 
 API Endpoint Orders
 
-POST - http://localhost:50180/api/orders/register | This will allow you to register and the id returned is required for checkout
+POST - http://localhost:50179/api/orders/register | This will allow you to register and the id returned is required for checkout
 
-PUT - http://localhost:50180/api/orders/checkout/{cartId}/{userId} | This allows you to checkout the cart you made 
+PUT - http://localhost:50179/api/orders/checkout/{cartId}/{userId} | This allows you to checkout the cart you made 
 
-GET - http://localhost:50180/api/orders/{userId} | This allows you to get allow orders made by the user
+GET - http://localhost:50179/api/orders/{userId} | This allows you to get allow orders made by the user
 
 
